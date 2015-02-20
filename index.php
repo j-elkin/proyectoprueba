@@ -7,6 +7,7 @@
 	<body BACKGROUND="img_fondo/animales_clasificados.jpg">
 		<CENTER>
 				<h1><FONT FACE="Arial,Helvetica,Times">Animales</FONT></h1>
+				<h3>En el zoologico.</h3>
 		</CENTER>
 		<div id="menu">
 			<ul class="est1">
